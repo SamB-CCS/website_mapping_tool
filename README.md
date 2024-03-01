@@ -1,7 +1,5 @@
 # Website Mapping Tool
 
-# Your-Project-Title
-
 ## Description
 
 This Website Mapping tool is a Python-based web scraping application that uses scrapy to obtain source and target urls for a given website.
